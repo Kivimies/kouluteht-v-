@@ -1,2 +1,2 @@
 # kouluteht-v-
-ylhäällä olevassa tiedostosta saat auki palautetun tehtävän.
+ylhäällä olevassa tiedostosta (käyttöohje.md) saat auki palautetun tehtävän.
